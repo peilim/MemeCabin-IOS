@@ -1,0 +1,32 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "UserDefaultConfig.h"
+    #import "MCglobalConfig.h"
+    #import "GoogleAnalyticsCustom.h"
+    #import "DanMessagePopup.h"
+    #import "AppConstants.h"
+    #import "AppResources.h"
+#endif
+
+
+#define DAN_MESSAGE_POPUP @"CurrentSessionDanPopup"
+#define DAN_MESSAGE_POPUP_NEW_LATER @"CurrentSessionDanPopupNew"
+#define DAN_MESSAGE_POPUP_NEXT @"DanPopupNext"
+#define DAN_MESSAGE_POPUP_NEW_NEXT @"DanPopupNewNext"
+
+#define MoPub_BANNER_AD_UNIT_ID_iPhone @"741b6b3669b449159b579c67705e9cb3"//@"c92be421345c4eab964645f6a1818284"
+#define MoPub_BANNER_AD_UNIT_ID_iPad @"63aa8e1a41ca40f6946284fe2b57198f"//@"c92be421345c4eab964645f6a1818284"
+#define MoPub_INTERSTITIAL_AD_UNIT_ID @"f1cda8bdcfa14904a8d6ebb3d28d4e29"//@"4f117153f5c24fa6a3a92b818a5eb630"

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D72340AD-D278-42C7-B7F1-624707FA69C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MemeCabin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E51BFAACEE9D2B0F1418E97E5EC106643237000</key>
+		<string>ssh://bitbucket.org/hemalkhan/memecabinios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MemeCabin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E51BFAACEE9D2B0F1418E97E5EC106643237000</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/hemalkhan/memecabinios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E51BFAACEE9D2B0F1418E97E5EC106643237000</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E51BFAACEE9D2B0F1418E97E5EC106643237000</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MemeiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

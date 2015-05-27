@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict/>
+	<key>Others</key>
+	<array>
+		<string>DisableForever</string>
+		<string>Non_Renew_Ads_Free_1_Dollar_Yearly_Subscription</string>
+	</array>
+	<key>SharedSecret</key>
+	<string>64871cce00f540c9952df7323ab7909a</string>
+</dict>
+</plist>
